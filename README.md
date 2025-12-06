@@ -1,2 +1,2 @@
-# lightweight-and-fast-Convolutional-Neural-Network-CNN-
-This project presents a lightweight and fast Convolutional Neural Network (CNN) designed for image classification on the CIFAR-10 dataset. The model uses simple architecture, light data augmentation, and optimized training settings to achieve good accuracy while keeping the training time under 3 minutes.
+# Speed-Optimized Deep Learning Model for Real-Time Image Classification
+This code trains a lightweight CNN model on the CIFAR-10 dataset using TensorFlow. It performs normalization, applies simple data augmentation, builds a small convolutional network, and trains it for 8 quick epochs. After training, the model is evaluated on the test set, and training accuracy curves are plotted to visualize performance.
